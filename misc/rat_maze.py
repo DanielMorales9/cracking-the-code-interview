@@ -1,5 +1,5 @@
 # The Rat in a Maze
-# A maze is given as N*N binary matrix of blocks where source is the upper
+# A maze is given as n*n binary matrix of blocks where source is the upper
 # left most block and the destination is the lower rightmost block. A Rat
 # starts from the source and has to reach the destination. The rat can move
 # only forward and down. The maze matrix has either dead blocks or free
